@@ -11,7 +11,7 @@ The Task Management Application is a web-based tool designed to help users effic
 
 - **React:** Used as the primary JavaScript library for building the user interface and managing state.
 - **npm dnd Package:** Leveraged for implementing drag-and-drop functionality, enabling seamless task management.
-- **HTML/CSS:** Utilized for structuring the application layout and styling the user interface.
+- **CSS:** Utilized for structuring the application layout and styling the user interface.
 - **Git:** Employed for version control, allowing for collaborative development and code management.
 - **Hosting Platform (e.g., Netlify):** Deployed the application to a hosting platform to provide a live demo for users to access and interact with.
 
